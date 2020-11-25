@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "631541427767",
+    "firebase_url": "https://vendas-ca88d.firebaseio.com",
+    "project_id": "vendas-ca88d",
+    "storage_bucket": "vendas-ca88d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631541427767:android:b012aad77759104777d9b2",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631541427767-7ane2l08anrcs72te1v0f1rv26iiba7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpPyHTnj92_VS6_PGnSgqFhwLXTwTK-U8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631541427767-7ane2l08anrcs72te1v0f1rv26iiba7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
